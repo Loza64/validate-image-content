@@ -9,6 +9,7 @@ Esta aplicación es un microservicio diseñado para validar imágenes en un ento
 - **Express.js**: Framework web para Node.js.  
 - **Node.js**: Entorno de ejecución para JavaScript en el servidor.  
 - **Cloudinary**: Servicio de gestión y optimización de imágenes.  
+- **CANVAS**: Libreria para el formateo de la imagen
 - **NSFWJS**: Libreria para la validacion del contenido de la imagen.
 
 ## Instalacion
