@@ -24,5 +24,5 @@ PORT=4000
 ```
 
 ### Ruta api 
--**post**: "http://localhost:4000/api/rest/route/server/upload/image".
--**form-body**: image tipo file
+- **post**: "http://localhost:4000/api/rest/route/server/upload/image".
+- **form-body**: image tipo file
