@@ -11,8 +11,11 @@ Esta aplicación es un microservicio diseñado para validar imágenes en un ento
 - **Cloudinary**: Servicio de gestión y optimización de imágenes.  
 - **NSFWJS**: Libreria para la validacion del contenido de la imagen.
 
-## Configuración  
+## Instalacion
 
+npm i
+
+## Configuración  
 Para ejecutar la aplicación en tu entorno local, asegúrate de tener instalado [Node.js](https://nodejs.org/)
 
 ### Variables de Entorno para el backend  
@@ -22,6 +25,10 @@ Crea un archivo `.env` en la raíz del proyecto con las siguientes variables:
 ```env  
 PORT=4000  
 ```
+
+### Ejecucion del proyecto
+
+npm run dev
 
 ### Ruta api 
 - **post**: "http://localhost:4000/api/rest/route/server/upload/image".
