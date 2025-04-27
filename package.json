@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.ts",
   "scripts": {
-    "start": "tsc && node build/index.js",
+    "start": "node build/index.js",
     "dev": "clear && cross-env DEBUG=Application:* ts-node-dev src/index.ts",
     "lint": "eslint 'src/**/*.{ts,js}' --fix",
     "test": "jest",
