@@ -9,7 +9,7 @@ Esta aplicación es un microservicio diseñado para validar imágenes en un ento
 - **Express.js**: Framework web para Node.js.  
 - **Node.js**: Entorno de ejecución para JavaScript en el servidor.  
 - **Cloudinary**: Servicio de gestión y optimización de imágenes.  
-- **NSFWJS**: Libreria para la validacion del contenido de la imagen
+- **NSFWJS**: Libreria para la validacion del contenido de la imagen.
 
 ## Configuración  
 
@@ -24,5 +24,5 @@ PORT=4000
 ```
 
 ### Ruta api 
--**post**: http://localhost:4000/api/rest/route/server/upload/image
---**form-body**: image 
+-**post**: "http://localhost:4000/api/rest/route/server/upload/image".
+-**form-body**: image tipo file
