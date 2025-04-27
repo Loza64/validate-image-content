@@ -30,6 +30,6 @@ PORT=4000
 
 npm run dev
 
-### Ruta api 
-- **post**: "http://localhost:4000/api/rest/route/server/upload/image".
-- **form-body**: image tipo file
+### Api 
+- **ruta-post**: "http://localhost:4000/api/rest/route/server/upload/image".
+- **form-body**: "image" tipo file
