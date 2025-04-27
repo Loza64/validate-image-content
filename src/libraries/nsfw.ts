@@ -22,7 +22,5 @@ export default async function isInapropiate(photo: Express.Multer.File) {
         ({ className, probability }) => categories[className] && probability > 0.75
     );
 
-    console.log(isNSFW);
-
     return isNSFW;
 }
