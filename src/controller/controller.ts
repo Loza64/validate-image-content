@@ -10,7 +10,7 @@ const sendResponse = (res: Response, state: number, message: string) => {
 };
 
 
-export const checkImage = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
+export const checkImageContent = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
     
     const image = req.file as unknown as Express.Multer.File;
     const isNSFW = await isInapropiate(image);
