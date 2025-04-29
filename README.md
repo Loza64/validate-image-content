@@ -2,7 +2,7 @@
 
 ## Descripción  
 
-Esta aplicación es un microservicio diseñado para validar imágenes en un entorno de comercio electrónico. Su función principal es verificar si el contenido de las imágenes es apropiado, utilizando inteligencia artificial para detectar contenido no apto. 
+Este proyecto es un microservicio diseñado para validar imágenes de uso es libre. Su función principal es verificar si el contenido de las imágenes es apropiado, utilizando inteligencia artificial para detectar contenido no apto. 
 
 ## Tecnologías Utilizadas  
 
