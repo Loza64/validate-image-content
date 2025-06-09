@@ -7,8 +7,7 @@ Este proyecto es un microservicio diseñado para validar imágenes de uso es lib
 ## Tecnologías Utilizadas  
 
 - **Express.js**: Framework web para Node.js.  
-- **Node.js**: Entorno de ejecución para JavaScript en el servidor.  
-- **Cloudinary**: Servicio de gestión y optimización de imágenes.  
+- **Node.js**: Entorno de ejecución para JavaScript en el servidor.
 - **CANVAS**: Libreria para el formateo de la imagen
 - **NSFWJS**: Libreria para la validacion del contenido de la imagen.
 
